@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Github/GDW_Tutorials/GDWTut/Content/FirstPerson/Tutorial2.umap",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Framework/BP_GameMode.uasset",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Tut2Framework/BP_GameMode.uasset",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Framework_Tut2/BP_GameMode.uasset",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Blueprints_Tut2/BP_FPCharacter.uasset",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Blueprints_Tut2/Player/BP_FPCharacter.uasset",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Blueprints_Tut2/Player/IMC_Default.uasset",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Blueprints_Tut2/Player/InputActions/IA_Move.uasset",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Blueprints_Tut2/Player/InputActions/IA_Look.uasset",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Blueprints_Tut2/Player/InputActions/IA_Jump.uasset",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Blueprints_Tut2/Turret/BP_Turret.uasset",
+				"E:/Github/GDW_Tutorials/GDWTut/Content/Blueprints_Tut2/Turret/BP_Projectile.uasset"
+			]
+		}
+	]
+}
